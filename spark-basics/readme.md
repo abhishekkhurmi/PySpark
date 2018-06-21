@@ -1,1 +1,1 @@
-## PySparq-SQL Basics
+## PySpark-SQL Basics
